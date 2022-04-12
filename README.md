@@ -50,4 +50,4 @@ Based on the results of the analysis, the bike sharing program is most often uti
 ### Suggestions for Further Anaylsis
 It would be interesting to see a visualization of the gender breakdown by user type.  Another visualization that could be completed is the average trip duration broken down by days of the week.
 
-[Link to Tableau Story]()
+[Link to Tableau Story](https://public.tableau.com/app/profile/david.kleitsch/viz/Module14Challenge_16496158109540/NYCCitiBike?publish=yes)
